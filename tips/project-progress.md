@@ -20,7 +20,5 @@
 <img src="../img/other-projects.png" width="100%"/>
 </center>
 
-\
-\
-\
+
 
